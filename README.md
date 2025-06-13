@@ -1,2 +1,10 @@
-# Special-Topics-in-Applied-Physics---Project-II
-Relatório Técnico referente ao Projeto II apresentado à disciplina de Tópicos Especiais em Física Experimental (FIS0006), do curso de Física Aplicada do Universidade Federal da Integração Latino-Americana (UNILA).
+# Tópicos Especiais em Física Experimental (FIS0006) - Projeto II.
+
+Saudações,
+
+* O projeto está na pasta _Projeto Final_
+* O código-fonte referente à atividade está na pasta _code_
+* Os dados utilizados estão na pasta _Dados_
+* Na pasta _Imagens_ estão as imagens usadas no texto do projeto que foram obtidos através do código fonte
+
+contato: fernandobatistti@hotmail.com
